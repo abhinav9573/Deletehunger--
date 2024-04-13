@@ -6,7 +6,7 @@ Welcome to DeleteHunger, where we're on a mission to fight food waste and hunger
 DeleteHunger is a non-profit organization dedicated to addressing food insecurity by connecting surplus food resources with those in need. Through our platform, we aim to bridge the gap between food donors and recipients, ensuring that excess food is redistributed to individuals and organizations facing hunger.
 
 ## How it Works
-- BDeleteHunger organizes the collection of surplus food from weddings, caterers, and hostel food messes using advanced technology.
+- DeleteHunger organizes the collection of surplus food from weddings, caterers, and hostel food messes using advanced technology.
 - Leveraging our technology, we efficiently deliver the collected food to areas with low hunger indices and limited NGO presence.
 - DeleteHunger raises awareness about food wastage and mobilizes support for food donation efforts among local communities, NGOs, and government agencies.
 
