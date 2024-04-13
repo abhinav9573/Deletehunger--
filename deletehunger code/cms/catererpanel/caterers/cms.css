@@ -1,0 +1,26 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+.button1 {
+  background-color: #4793AF; 
+  border: none;
+  color: white;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+.button {
+  background-color: #E72929; 
+  border: none;
+  color: white;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+.button4 {border-radius: 12px;}
